@@ -6,7 +6,7 @@ function App() {
     <div className="outer">
       <div className='navbar'>
         <text className='nav-text'>
-          EASY CALCULATIONS
+          MY CALCULATOR
         </text>
       </div>
       <Calculator/>
